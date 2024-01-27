@@ -169,6 +169,13 @@ nav button {
     width: 375px;
 }
 
+.third video {
+
+    height: 133px;
+    width: 391px;
+    top: 59px;
+}
+
 section.first>div {
     display: flex;
     flex-direction: column;
